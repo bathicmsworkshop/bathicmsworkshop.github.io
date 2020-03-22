@@ -1,1 +1,11 @@
+# Site settings
+title: Test Title
+email: Test Email
+description: > # this means to ignore newlines until "baseurl:"
+  Test Description
+baseurl: Test Base URL"" # the subpath of your site, e.g. /blog/
+url: "Test URL Address" # the base hostname & protocol for your site
+twitter_username: Test Twitter Username
+github_username:  Test Github Username
 theme: jekyll-theme-modernist
+show_downloads: false
