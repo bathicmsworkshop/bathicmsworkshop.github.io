@@ -2,7 +2,7 @@
 title: Analytic and Geometric Approaches to Machine Learning
 email: mecwerks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  ICMS Workshop, 27th - 31st July 2020, University of Bath
+  ICMS Workshop, <br> 27th - 31st July 2020, <br> University of Bath
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 theme: jekyll-theme-modernist
