@@ -45,6 +45,10 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <p>The registration process will be announced at a later date.</p>
 
+<h1>Schedule</h1>
+
+<p>The schedule will be announced at a later date.</p>
+
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
 
