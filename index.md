@@ -12,27 +12,34 @@ We particularly want to emphasise how mathematical theory can inform application
   
 <h1>Confirmed Speakers</h1>
 
-<p>The following speakers are confirmed:</p>
+<!---<p>The following speakers are confirmed:</p>--->
 <ul>
-<li>Andres Almansa (Université de Paris)</li>
-<li>Coloma Ballester (Universitat Pompeu Fabra)</li>
-<li>Andrea Bertozzi (University of California, Los Angeles)</li>
-<li>Christoph Brune (University of Twente)</li>
-<li>Jeff Calder (University of Minnesota)</li>
-<li>Daniel Cremers (Technische Universität München)</li>
-<li>Julie Delon (Paris Descartes University)</li>
-<li>Matthias Ehrhardt (University of Bath)</li>
-<li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
-<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>
-<li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
-<li>Mathew Penrose (University of Bath)</li>
-<li>Johannes Schmidt-Hieber (University of Twente)</li>
-<li>Yves van Gennip (Delft University of Technology)</li>
-<li>Kostas Zygalakis (University of Edinburgh)</li>
+  <li>Andres Almansa (Université de Paris)</li>
+  <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
+  <li>Andrea Bertozzi (University of California, Los Angeles)</li>
+  <li>Christoph Brune (University of Twente)</li>
+  <li>Jeff Calder (University of Minnesota)</li>
+  <li>Daniel Cremers (Technische Universität München)</li>
+  <li>Julie Delon (Paris Descartes University)</li>
+  <li>Matthias Ehrhardt (University of Bath)</li>
+  <li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
+  <li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>
+  <li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
+  <li>Mathew Penrose (University of Bath)</li>
+  <li>Johannes Schmidt-Hieber (University of Twente)</li>
+  <li>Yves van Gennip (Delft University of Technology)</li>
+  <li>Kostas Zygalakis (University of Edinburgh)</li>
 </ul>
 
 <h1>Organisers</h1>
-<p>Oganisers here.</p>
+
+<!---<p>Oganisers here.</p>--->
+<ul>
+  <li><a href="https://bamdadhosseini.org/">Bamdad Hosseini</li>
+  <li><a href="https://www.research.manchester.ac.uk/portal/matthew.thorpe-2.html">Matthew Thorpe</a>, University of Manchester</li>
+  <li><a href="https://www.upf.edu/web/patricia-vitoria">Patricia Vitoria Carrera</a>, Universitat Pompeu Fabra</li>
+</ul>
+  
 
 <h1>Registration</h1>
 
