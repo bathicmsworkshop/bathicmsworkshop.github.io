@@ -35,7 +35,7 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <!---<p>Oganisers here.</p>--->
 <ul>
-  <li><a href="https://bamdadhosseini.org/">Bamdad Hosseini</a></li>
+  <li><a href="https://bamdadhosseini.org/">Bamdad Hosseini</a>, California Institute of Technology</li>
   <li><a href="https://www.research.manchester.ac.uk/portal/matthew.thorpe-2.html">Matthew Thorpe</a>, University of Manchester</li>
   <li><a href="https://www.upf.edu/web/patricia-vitoria">Patricia Vitoria Carrera</a>, Universitat Pompeu Fabra</li>
 </ul>
