@@ -19,7 +19,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Andrea Bertozzi (University of California, Los Angeles)</li>
   <li>Christoph Brune (University of Twente)</li>
   <li>Jeff Calder (University of Minnesota)</li>
-  <li>Daniel Cremers (Technische Universität München)</li>
+  <!---<li>Daniel Cremers (Technische Universität München)</li>--->
   <li>Julie Delon (Paris Descartes University)</li>
   <li>Matthias Ehrhardt (University of Bath)</li>
   <li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
