@@ -28,7 +28,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Mathew Penrose (University of Bath)</li>
   <li>Johannes Schmidt-Hieber (University of Twente)</li>
   <li>Yves van Gennip (Delft University of Technology)</li>
-  <li>Kostas Zygalakis (University of Edinburgh)</li>
+  <!---<li>Kostas Zygalakis (University of Edinburgh)</li>--->
 </ul>
 
 <h1>Organisers</h1>
