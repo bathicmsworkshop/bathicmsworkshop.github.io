@@ -56,9 +56,9 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <p>The workshop is funded by the <a href="https://www.icms.org.uk/">International Centre for Mathematical Sciences (ICMS)</a> and supported by <a href="https://www.uni-muenster.de/NoMADS/">NoMADS</a> (which in turn received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 777826). We are grateful for the hospitality of the University of Bath.</p>
 
-<img src="ICMS_Logo.jfif" alt="ICMS">
-<img src="NoMADS_Logo.png" alt="NoMADS">
-<img src="UniversityOfBath_Logo.png" alt="University of Bath">
+<img src="ICMS_Logo.jfif" alt="ICMS" width="181" height="128">
+<img src="NoMADS_Logo.png" alt="NoMADS" width="181" height="433">
+<img src="UniversityOfBath_Logo.png" alt="University of Bath" width="181" height="358">
 
 </body>
 </html>
