@@ -56,5 +56,7 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <p>The workshop is funded by the <a href="https://www.icms.org.uk/">International Centre for Mathematical Sciences (ICMS)</a> and supported by <a href="https://www.uni-muenster.de/NoMADS/">NoMADS</a> (which in turn received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 777826).</p>
 
+<img src="ICMS_Logo.jfif" alt="ICMS">
+
 </body>
 </html>
