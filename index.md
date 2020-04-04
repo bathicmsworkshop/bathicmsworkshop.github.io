@@ -5,9 +5,21 @@
   box-sizing: border-box;
 }
 
-.column {
+.columnOne {
   float: left;
-  width: 33.33%;
+  width: 18.7%;
+  padding: 5px;
+}
+
+.columnTwo {
+  float: left;
+  width: 44.6%;
+  padding: 5px;
+}
+
+.columnThree {
+  float: left;
+  width: 36.7%;
   padding: 5px;
 }
 
@@ -78,13 +90,13 @@ We particularly want to emphasise how mathematical theory can inform application
 <p>The workshop is funded by the <a href="https://www.icms.org.uk/">International Centre for Mathematical Sciences (ICMS)</a> and supported by <a href="https://www.uni-muenster.de/NoMADS/">NoMADS</a> (which in turn received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 777826). We are grateful for the hospitality of the University of Bath.</p>
 
 <div class="row">
-  <div class="column">
+  <div class="columnOne">
     <img src="ICMS_Logo.jfif" alt="ICMS" width="91" height="64" style="width:100%">
   </div>
-  <div class="column">
+  <div class="columnTwo">
     <img src="NoMADS_Logo.png" alt="NoMADS" width="217" height="64" style="width:100%">
   </div>
-  <div class="column">
+  <div class="columnThree">
     <img src="UniversityOfBath_Logo.png" alt="University of Bath" width="179" height="64" style="width:100%">
   </div>
 </div>
