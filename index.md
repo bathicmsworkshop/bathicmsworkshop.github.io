@@ -34,11 +34,9 @@
   
 <body>
   
-<p><color="red">***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshopby 1 year. The webpage will be updated in the autumn with more details.***</font></p>
+<p><font color="red">***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshopby 1 year. The webpage will be updated in the autumn with more details.***</font></p>
 
 <h1>Overview and Aims</h1>
-
-<p>***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshopby 1 year. The webpage will be updated in the autumn with more details.***</p>
 
 <p>As we enter the age of data we have seen the birth of machine learning methods to a diverse range of applications, including computer vision, classification/clustering, regression, data mining and prediction. Machine learning has been remarkably successful in applications but our theoretical understanding of many machine learning algorithms is still missing. This has led to an increasing appetite for the mathematical analysis of machine learning algorithms. Particularly exciting is the potential for methods from applied mathematics, probability theory, and statistics to contribute to machine learning theory.</p>
 
