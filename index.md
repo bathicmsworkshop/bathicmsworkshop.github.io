@@ -34,7 +34,7 @@
   
 <body>
   
-<p><font color="red">***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshopby 1 year. The webpage will be updated in the autumn with more details.***</font></p>
+<p style="color:Red;"><b>***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshopby 1 year. The webpage will be updated in the autumn with more details.***</b></p>
 
 <h1>Overview and Aims</h1>
 
