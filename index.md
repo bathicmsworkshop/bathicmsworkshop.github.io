@@ -33,6 +33,8 @@
 </head>
   
 <body>
+  
+<p><color="red">***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshopby 1 year. The webpage will be updated in the autumn with more details.***</font></p>
 
 <h1>Overview and Aims</h1>
 
