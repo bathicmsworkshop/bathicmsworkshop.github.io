@@ -84,7 +84,7 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <h1>Summer Registration</h1>
 
-<p>The registration form for the summer workshop will be available soon.</p>
+  <p>Please complete the registration form <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnndyxq79pTBHhzzs2fobY9tUQktITE82UjdJWDlCMEYyQ0hJOFE2WkszTyQlQCN0PWcu">here</a> to join the summer workshop.</p>
 
 <h1>Summer Schedule</h1>
 
