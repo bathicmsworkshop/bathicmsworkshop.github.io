@@ -66,6 +66,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Pablo Muse (Universidad de la República de Uruguay)</li>
   <li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
   <li>Mathew Penrose (University of Bath)</li>
+  <li>Philipp Petersen (University of Vienna)</li>
   <li>Johannes Schmidt-Hieber (University of Twente)</li>
   <li>Bernhard Schmitzer (University of Göttingen)</li>
   <li>Yves van Gennip (Delft University of Technology)</li>
