@@ -34,7 +34,7 @@
   
 <body>
   
-<p style="color:Red;"><b>***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshop by 1 year. The webpage will be updated in the autumn with more details.***</b></p>
+<p style="color:Red;"><b>***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshop by 1 year. The workshop will now be held in two parts. The first part is online only and will take place 26th-30th July 2021. The second part is in-person and will be held in December 2021 at the University of Bath.***</b></p>
 
 <h1>Overview and Aims</h1>
 
@@ -43,7 +43,9 @@
 <p>The aim of the workshop is to bring together researchers that apply mathematical methodology to machine learning.
 We particularly want to emphasise how mathematical theory can inform applications and vice versa.</p>
 
-<p>This workshop is part of a sequence of events held at the University of Bath on the Mathematics of Machine Learning. In particular this workshop precedes the <a href="https://mathml2020.github.io/index">LMS-Bath Symposium on the Mathematics of Machine Learning</a>.</p>
+<p>This workshop is the first of two workshops on this topic. The second will be an in-person workshop to be held at the University of Bath, in December 2021. In this first workshop, invited speakers are encouraged to present open problems and explore interesting directions for potential research as part of their talk. The schedule allows participants time to initiate conversations and collaborations that can be developed at the winter workshop.</p>
+  
+ <p>The two workshops in this series follow on from the <a href="https://mathml2020.github.io/index">LMS-Bath Symposium on the Mathematics of Machine Learning</a> held 3-7 August 2020.</p>
   
 <h1>Confirmed Speakers</h1>
 
@@ -54,16 +56,20 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Andrea Bertozzi (University of California, Los Angeles)</li>
   <li>Christoph Brune (University of Twente)</li>
   <li>Jeff Calder (University of Minnesota)</li>
-  <!---<li>Daniel Cremers (Technische Universität München)</li>--->
-  <li>Julie Delon (Paris Descartes University)</li>
+  <li>Daniel Cremers (Technische Universität München)</li>
+  <!---<li>Julie Delon (Paris Descartes University)</li>--->
   <li>Matthias Ehrhardt (University of Bath)</li>
   <li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
   <li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>
+  <li>Jonas Latz (University of Cambridge)</li>
+  <li>Youssef Marzouk (Massachusetts Institute of Technology)</li>
+  <li>Pablo Muse (Universidad de la República de Uruguay)</li>
   <li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
   <li>Mathew Penrose (University of Bath)</li>
   <li>Johannes Schmidt-Hieber (University of Twente)</li>
+  <li>Bernhard Schmitzer (University of Göttingen)</li>
   <li>Yves van Gennip (Delft University of Technology)</li>
-  <!---<li>Kostas Zygalakis (University of Edinburgh)</li>--->
+  <li>Kostas Zygalakis (University of Edinburgh)</li>
 </ul>
 
 <h1>Organisers</h1>
@@ -76,13 +82,13 @@ We particularly want to emphasise how mathematical theory can inform application
 </ul>
   
 
-<h1>Registration</h1>
+<h1>Summer Registration</h1>
 
-<p>The registration process will be announced at a later date.</p>
+<p>The registration form for the summer workshop will be available soon.</p>
 
-<h1>Schedule</h1>
+<h1>Summer Schedule</h1>
 
-<p>The schedule will be announced at a later date.</p>
+<p>The schedule for the summer workshop will be announced at a later date.</p>
 
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
