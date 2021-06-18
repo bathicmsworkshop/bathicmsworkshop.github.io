@@ -94,6 +94,8 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
+  
+ <!--- Other website: https://www.icms.org.uk/events/workshops/AGAML, https://imibath.ac.uk/news/lms-icms-symposium-analytic-and-geometric-approaches-to-machine-leaning/--->
 
 <h1>Sponsors</h1>
 
