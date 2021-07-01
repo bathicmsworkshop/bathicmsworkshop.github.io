@@ -60,7 +60,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Julie Delon (Paris Descartes University)</li>--->
   <li>Matthias Ehrhardt (University of Bath)</li>
   <li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
-  <li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>
+  <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
   <li>Yury Korolev (University of Cambridge)</li>
   <li>Jonas Latz (University of Cambridge)</li>
   <li>Youssef Marzouk (Massachusetts Institute of Technology)</li>
