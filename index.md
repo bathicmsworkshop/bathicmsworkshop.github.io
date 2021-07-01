@@ -34,7 +34,7 @@
   
 <body>
   
-<p style="color:Red;"><b>***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshop by 1 year. The workshop will now be held in two parts. The first part is online only and will take place 26th-30th July 2021. The second part is in-person and will be held in December 2021 at the University of Bath.***</b></p>
+<p style="color:Red;"><b>***Due to the ongoing covid-19 pandemic we have taken the decision to postpone the workshop by 1 year. The workshop will now be held in two parts. The first part is online only and will take place 26th-30th July 2021. The second part is in-person and will be held in January 2022 at the University of Bath.***</b></p>
 
 <h1>Overview and Aims</h1>
 
