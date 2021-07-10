@@ -91,11 +91,8 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <h1>Summer Schedule</h1>
 
-<p>The schedule for the summer workshop can be downloaded <a href="bathicmsworkshop.github.io/WorkshopSchedule7.pdf" target="_blank">here.</a></p>
+<p>The schedule for the summer workshop can be downloaded <a href="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf">here.</a></p>
   
-  <embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" type="application/pdf" />
-  
-  <embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" width="600px" height="500px" />
   
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
