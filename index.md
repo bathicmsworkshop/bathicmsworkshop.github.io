@@ -95,6 +95,8 @@ We particularly want to emphasise how mathematical theory can inform application
   
   <embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" type="application/pdf" />
   
+  <embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" width="600px" height="500px" />
+  
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
   
