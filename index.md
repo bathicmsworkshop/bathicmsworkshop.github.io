@@ -94,7 +94,8 @@ We particularly want to emphasise how mathematical theory can inform application
 <!---<p>The schedule for the summer workshop can be downloaded <a href="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf">here.</a></p>--->
 <p> The schedule for the summer workshop is below.</p>
   
-<embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" width="600px" height="500px" />
+<!---<embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" width="600px" height="500px" />--->
+<embed src="https://bathicmsworkshop.github.io/WorkshopSchedule7.pdf" type="application/pdf" />
  
   
 <!---<h1>Contact</h1>
