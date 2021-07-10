@@ -91,7 +91,7 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <h1>Summer Schedule</h1>
 
-<p>The schedule for the summer workshop can be downloaded <a href="bathicmsworkshop.github.io/Workshop Schedule 7.pdf" target="_blank">here.</a></p>
+<p>The schedule for the summer workshop can be downloaded <a href="bathicmsworkshop.github.io/WorkshopSchedule7.pdf" target="_blank">here.</a></p>
   
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
