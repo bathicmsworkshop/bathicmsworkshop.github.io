@@ -102,6 +102,11 @@ We particularly want to emphasise how mathematical theory can inform application
  
 <embed src="https://bathicmsworkshop.github.io/TitlesAndAbstracts.pdf" width="100%" height="850px"/>
 
+<p> The slides from the workshop opening are below.</p>
+ 
+<embed src="https://bathicmsworkshop.github.io/ICMS__LMS_Workshop_on_Analytic_and_Geometric_Approaches_to_Machine_Learning.pdf" width="100%" height="850px"/>
+  
+  
 <!---<h1>Contact</h1>
 <p>Contact here.</p>--->
   
