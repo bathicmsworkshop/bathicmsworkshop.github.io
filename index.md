@@ -52,7 +52,7 @@ We particularly want to emphasise how mathematical theory can inform application
 <!---<p>The following speakers are confirmed:</p>--->
 <!---<a href="https://bathicmsworkshop.github.io/....pdf">[slides]</a>--->
 <ul>
-  <li>Andres Almansa (Université de Paris) <a href="https://bathicmsworkshop.github.io/AndresAlmansa.pdf">[slides]</a> <a href="https://bathicmsworkshop.github.io/AndresAlmansaVideo.pdf">[inpainting video]</a></li> 
+  <li>Andres Almansa (Université de Paris) <a href="https://bathicmsworkshop.github.io/AndresAlmansa.pdf">[slides]</a> <a href="https://bathicmsworkshop.github.io/AndresAlmansaVideo.mp4">[inpainting video]</a></li> 
   <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
   <li>Andrea Bertozzi (University of California, Los Angeles)</li>
   <li>Christoph Brune (University of Twente)</li>
@@ -68,7 +68,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Youssef Marzouk (Massachusetts Institute of Technology) <a href="https://bathicmsworkshop.github.io/YoussefMarzouk.pdf">[slides]</a></li>
   <li>Pablo Muse (Universidad de la República de Uruguay)</li>
   <li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
-  <li>Mathew Penrose (University of Bath) <a href="https://bathicmsworkshop.github.io/MatthewPenrose.pdf">[slides]</a></li>
+  <li>Mathew Penrose (University of Bath) <a href="https://bathicmsworkshop.github.io/MathewPenrose.pdf">[slides]</a></li>
   <li>Philipp Petersen (University of Vienna)</li>
   <li>Johannes Schmidt-Hieber (University of Twente) <a href="https://bathicmsworkshop.github.io/JohannesSchmidtHieber.pdf">[slides]</a></li>
   <li>Bernhard Schmitzer (University of Göttingen) <a href="https://bathicmsworkshop.github.io/BernhardSchmitzer.pdf">[slides]</a></li>
