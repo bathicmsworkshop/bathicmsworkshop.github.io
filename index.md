@@ -53,7 +53,7 @@ We particularly want to emphasise how mathematical theory can inform application
 <!---<a href="https://bathicmsworkshop.github.io/....pdf">[slides]</a>--->
 <ul>
   <li>Andres Almansa (Université de Paris) <a href="https://bathicmsworkshop.github.io/AndresAlmansa.pdf">[slides]</a> <a href="https://bathicmsworkshop.github.io/AndresAlmansaVideo.mp4">[inpainting video]</a></li> 
-  <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
+  <li>Coloma Ballester (Universitat Pompeu Fabra) <a href="https://bathicmsworkshop.github.io/ColomaBallesterLowRes.pdf">[slides]</a></li>
   <li>Andrea Bertozzi (University of California, Los Angeles)</li>
   <li>Christoph Brune (University of Twente)</li>
   <li>Jeff Calder (University of Minnesota) <a href="https://bathicmsworkshop.github.io/JeffCalder.pdf">[slides]</a></li>
