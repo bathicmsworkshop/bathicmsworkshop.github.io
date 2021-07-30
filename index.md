@@ -50,7 +50,7 @@ We particularly want to emphasise how mathematical theory can inform application
 <h1>Confirmed Speakers</h1>
 
 <!---<p>The following speakers are confirmed:</p>--->
-<!---<a href="https://bathicmsworkshop.github.io/....pdf">[slides]</a>--->
+<!---<a href="https://bathicmsworkshop.github.io/....pdf">[slides]</a>---> 
 <ul>
   <li>Andres Almansa (Université de Paris) <a href="https://bathicmsworkshop.github.io/AndresAlmansa.pdf">[slides]</a> <a href="https://bathicmsworkshop.github.io/AndresAlmansaVideo.mp4">[inpainting video]</a></li> 
   <li>Coloma Ballester (Universitat Pompeu Fabra) <a href="https://bathicmsworkshop.github.io/ColomaBallesterLowRes.pdf">[slides]</a></li>
