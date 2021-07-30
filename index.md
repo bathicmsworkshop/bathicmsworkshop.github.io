@@ -50,29 +50,30 @@ We particularly want to emphasise how mathematical theory can inform application
 <h1>Confirmed Speakers</h1>
 
 <!---<p>The following speakers are confirmed:</p>--->
+<!---<a href="https://bathicmsworkshop.github.io/....pdf">[slides]</a>--->
 <ul>
-  <li>Andres Almansa (Université de Paris)</li>
+  <li>Andres Almansa (Université de Paris) <a href="https://bathicmsworkshop.github.io/AndresAlmansa.pdf">[slides]</a> <a href="https://bathicmsworkshop.github.io/AndresAlmansaVideo.pdf">[inpainting video]</a></li> 
   <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
   <li>Andrea Bertozzi (University of California, Los Angeles)</li>
   <li>Christoph Brune (University of Twente)</li>
-  <li>Jeff Calder (University of Minnesota)</li>
+  <li>Jeff Calder (University of Minnesota) <a href="https://bathicmsworkshop.github.io/JeffCalder.pdf">[slides]</a></li>
   <li>Daniel Cremers (Technische Universität München)</li>
   <!---<li>Julie Delon (Paris Descartes University)</li>--->
   <li>Matthias Ehrhardt (University of Bath)</li>
   <li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
-  <li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn)</li>
+  <li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn) <a href="https://bathicmsworkshop.github.io/FrancaHoffmann.pdf">[slides]</a></li>
   <li>Yury Korolev (University of Cambridge)</li>
   <li>Jonas Latz (University of Cambridge)</li>
-  <li>Youssef Marzouk (Massachusetts Institute of Technology)</li>
+  <li>Youssef Marzouk (Massachusetts Institute of Technology) <a href="https://bathicmsworkshop.github.io/YoussefMarzouk.pdf">[slides]</a></li>
   <li>Pablo Muse (Universidad de la República de Uruguay)</li>
   <li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
-  <li>Mathew Penrose (University of Bath)</li>
+  <li>Mathew Penrose (University of Bath) <a href="https://bathicmsworkshop.github.io/MatthewPenrose.pdf">[slides]</a></li>
   <li>Philipp Petersen (University of Vienna)</li>
-  <li>Johannes Schmidt-Hieber (University of Twente)</li>
-  <li>Bernhard Schmitzer (University of Göttingen)</li>
+  <li>Johannes Schmidt-Hieber (University of Twente) <a href="https://bathicmsworkshop.github.io/JohannesSchmidtHieber.pdf">[slides]</a></li>
+  <li>Bernhard Schmitzer (University of Göttingen) <a href="https://bathicmsworkshop.github.io/BernhardSchmitzer.pdf">[slides]</a></li>
   <li>Yves van Gennip (Delft University of Technology)</li>
-  <li>Kostas Zygalakis (University of Edinburgh)</li>
+  <li>Kostas Zygalakis (University of Edinburgh) <a href="https://bathicmsworkshop.github.io/KostasZygalakis.pdf">[slides]</a></li>
 </ul>
 
 <h1>Organisers</h1>
