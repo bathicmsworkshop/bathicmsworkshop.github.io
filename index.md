@@ -66,7 +66,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Yury Korolev (University of Cambridge)</li>
   <li>Jonas Latz (University of Cambridge)</li>
   <li>Youssef Marzouk (Massachusetts Institute of Technology) <a href="https://bathicmsworkshop.github.io/YoussefMarzouk.pdf">[slides]</a></li>
-  <li>Pablo Muse (Universidad de la República de Uruguay)</li>
+  <li>Pablo Muse (Universidad de la República de Uruguay) <a href="https://bathicmsworkshop.github.io/PabloMuse.pdf">[slides]</a></li>
   <li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>
   <li>Mathew Penrose (University of Bath) <a href="https://bathicmsworkshop.github.io/MathewPenrose.pdf">[slides]</a></li>
   <li>Philipp Petersen (University of Vienna)</li>
