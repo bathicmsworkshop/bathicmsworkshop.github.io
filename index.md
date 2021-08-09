@@ -59,7 +59,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Jeff Calder (University of Minnesota) <a href="https://bathicmsworkshop.github.io/JeffCalder.pdf">[slides]</a></li>
   <li>Daniel Cremers (Technische Universität München)</li>
   <!---<li>Julie Delon (Paris Descartes University)</li>--->
-  <li>Matthias Ehrhardt (University of Bath)</li>
+  <li>Matthias Ehrhardt (University of Bath)  <a href="https://bathicmsworkshop.github.io/MatthiasEhrhardt.pdf">[slides]</a> </li>
   <li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
   <li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn) <a href="https://bathicmsworkshop.github.io/FrancaHoffmann.pdf">[slides]</a></li>
