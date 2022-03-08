@@ -130,6 +130,8 @@ We particularly want to emphasise how mathematical theory can inform application
 <!---<embed src="https://bathicmsworkshop.github.io/WorkshopSchedule8.pdf" width="100%" height="850px"/>--->
   
   <p> The 2022 workshop schedule will appear here shortly. </p>
+
+<h1>2021 Workshop Titles and Abstracts</h1>
   
 <p> Titles and abstracts for the 2021 workshop are below.</p>
  
