@@ -109,7 +109,8 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <!---<p>Oganisers here.</p>--->
 <ul>
-  <li><a href="https://bamdadhosseini.org/">Bamdad Hosseini</a>, California Institute of Technology</li>
+  <li><a href="https://bamdadhosseini.org/">Bamdad Hosseini</a>, University of Washington</li>
+  <li><a href="https://people.bath.ac.uk/lmk54/">Lisa Kreusser</a>, University of Bath</li>
   <li><a href="https://www.matthewthorpe.co.uk/home">Matthew Thorpe</a>, University of Manchester</li>
   <li><a href="https://www.upf.edu/web/patricia-vitoria">Patricia Vitoria Carrera</a>, Universitat Pompeu Fabra</li>
 </ul>
