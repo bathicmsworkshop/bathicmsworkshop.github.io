@@ -72,6 +72,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Johannes Schmidt-Hieber (University of Twente)</li>--->
   <li>Bernhard Schmitzer (University of Göttingen)</li>
   <!---<li>Yves van Gennip (Delft University of Technology)</li>--->
+  <li>Melanie Weber (University of Oxford)</li>
   <li>Kostas Zygalakis (University of Edinburgh)</li>
 </ul>
 
