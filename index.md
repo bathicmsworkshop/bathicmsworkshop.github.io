@@ -52,7 +52,7 @@ We particularly want to emphasise how mathematical theory can inform application
 <ul>
   <li>Andres Almansa (Université de Paris)</li> 
   <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
-  <li>Andrea Bertozzi (University of California, Los Angeles)</li>
+  <!---<li>Andrea Bertozzi (University of California, Los Angeles)</li>--->
   <li>Christoph Brune (University of Twente)</li>
   <li>Jeff Calder (University of Minnesota)</li>
   <li>Daniel Cremers (Technische Universität München)</li>
@@ -62,6 +62,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>--->
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
   <!---<li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn)</li>--->
+  <li>Anna Korba (ENSAE/CREST)</li>
   <li>Yury Korolev (University of Cambridge)</li>
   <li>Jonas Latz (University of Cambridge)</li>
   <li>Youssef Marzouk (Massachusetts Institute of Technology)</li>
