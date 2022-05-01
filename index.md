@@ -54,7 +54,8 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
   <!---<li>Andrea Bertozzi (University of California, Los Angeles)</li>--->
   <li>Christoph Brune (University of Twente)</li>
-  <li>Jeff Calder (University of Minnesota)</li>
+  <li>Jeremy Budd (University of Bonn)</li>
+  <!---<li>Jeff Calder (University of Minnesota)</li>--->
   <li>Daniel Cremers (Technische Universität München)</li>
   <!---<li>Julie Delon (Paris Descartes University)</li>--->
   <li>Nicolas Durrande (Secondmind AI)</li>
@@ -72,9 +73,10 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Philipp Petersen (University of Vienna)</li>
   <!---<li>Johannes Schmidt-Hieber (University of Twente)</li>--->
   <li>Bernhard Schmitzer (University of Göttingen)</li>
+  <li>Laura Thesing (Ludwig-Maximilians Universitat Munchen)</li>
   <!---<li>Yves van Gennip (Delft University of Technology)</li>--->
   <li>Melanie Weber (University of Oxford)</li>
-  <li>Kostas Zygalakis (University of Edinburgh)</li>
+  <!---<li>Kostas Zygalakis (University of Edinburgh)</li>--->
 </ul>
 
   
@@ -121,7 +123,8 @@ We particularly want to emphasise how mathematical theory can inform application
 <h1>2022 Workshop Registration</h1>
 
 <!---  <p>Please complete the registration form <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnndyxq79pTBHhzzs2fobY9tUQktITE82UjdJWDlCMEYyQ0hJOFE2WkszTyQlQCN0PWcu">here</a> to join the summer workshop.</p>--->
-  <p> Information about how to register for the 2022 workshop will appear here shortly. </p>
+<!---  <p> Information about how to register for the 2022 workshop will appear here shortly. </p>--->
+  <p>Please complete the registration form <a href="">here</a> to apply to join the summer 2022 workshop. The deadline for completing the form is 26th June 2022, and to apply for funding you should apply before the 15th May 2022.</p>
 
 <h1>2022 Workshop Schedule</h1>
 
@@ -163,6 +166,9 @@ We particularly want to emphasise how mathematical theory can inform application
   </div>
   <div class="columnThree">
     <img src="UniversityOfBath_Logo.png" alt="University of Bath" width="179" height="64" style="width:100%">
+  </div>
+  <div class="columnThree">
+    <img src="logo_m4dl.png" alt="University of Bath" width="155" height="64" style="width:100%">
   </div>
 </div>
 
