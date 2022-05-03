@@ -45,7 +45,9 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <p>The first workshop was held online on the 26th-30th July 2021. The second workshop will be held on the 11th-15th July 2022 at the University of Bath. In the first workshop invited speakers were encouraged to present open problems and explore interesting directions for potential research as part of their talk. These topics and areas of research will initiate conversations and collaborations to be developed at the forthcoming 2022 workshop.</p>
   
- <p>The two workshops in this series follow on from the <a href="https://mathml2020.github.io/index">LMS-Bath Symposium on the Mathematics of Machine Learning</a> held 3-7 August 2020.</p>
+<p>We are grateful to our sponsors: the ICMS, <a href="https://www.uni-muenster.de/NoMADS/">NoMADS</a>, <a href="https://people.bath.ac.uk/mascjb/maths4dl.html">Maths4DL</a> and the university of Bath.</p>
+  
+<p>The two workshops in this series follow on from the <a href="https://mathml2020.github.io/index">LMS-Bath Symposium on the Mathematics of Machine Learning</a> held 3-7 August 2020.</p>
 
 <h1>Confirmed Participants in the 2022 Workshop</h1>
 
