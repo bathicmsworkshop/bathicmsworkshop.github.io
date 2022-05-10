@@ -65,6 +65,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>--->
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
   <!---<li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn)</li>--->
+  <li>Samuel Hurault (Universite de Bordeaux)</li>
   <li>Anna Korba (ENSAE/CREST)</li>
   <li>Yury Korolev (University of Cambridge)</li>
   <li>Jonas Latz (University of Cambridge)</li>
