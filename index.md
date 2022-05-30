@@ -131,7 +131,7 @@ We particularly want to emphasise how mathematical theory can inform application
 
 <!---  <p>Please complete the registration form <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnndyxq79pTBHhzzs2fobY9tUQktITE82UjdJWDlCMEYyQ0hJOFE2WkszTyQlQCN0PWcu">here</a> to join the summer workshop.</p>--->
 <!---  <p> Information about how to register for the 2022 workshop will appear here shortly. </p>--->
-  <p>Please complete the registration form <a href="">here</a> to apply to join the summer 2022 workshop. The deadline for completing the form is 26th June 2022, and to apply for funding you should apply before the 15th May 2022.</p>
+  <p>Please complete the registration form <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3DIj1-N6FOLUKwrY_MiUBrnndyxq79pTBHhzzs2fobY9tUNVlFS0dOVlFCWko1UEFIV0FZSTRKMlM4QiQlQCN0PWcu%26wdLOR%3Dc176E9159-0BF9-4BB6-AD08-3D5FE5E57F5E&data=05%7C01%7Clmk54%40bath.ac.uk%7C966357bfdefa4cf2711b08da29cd8128%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637868259855134170%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pK9VSKPnKiEFom8Ld2f4vh5yKtK6VudleWobOUKkDoI%3D&reserved=0">here</a> to apply to join the summer 2022 workshop. The deadline for completing the form is 26th June 2022, and to apply for funding you should apply before the 15th May 2022.</p>
 
 <h1>2022 Workshop Schedule</h1>
 
