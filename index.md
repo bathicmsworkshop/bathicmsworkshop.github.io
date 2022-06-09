@@ -62,9 +62,11 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Julie Delon (Paris Descartes University)</li>--->
   <li>Margaret Duff (University of Bath)</li>
   <li>Nicolas Durrande (Secondmind AI)</li>
+  <li>Ritabrata Dutta (Warwick)</li>
   <li>Matthias Ehrhardt (University of Bath)</li>
   <!---<li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>--->
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
+  <li>Carina Geldhauser (Lund)</li>
   <li>Tamara Großmann (University of Cambridge)</li>
   <!---<li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn)</li>--->
   <li>Samuel Hurault (Universite de Bordeaux)</li>
@@ -83,6 +85,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Laura Thesing (Ludwig-Maximilians Universitat Munchen)</li>
   <!---<li>Yves van Gennip (Delft University of Technology)</li>--->
   <!---<li>Melanie Weber (University of Oxford)</li>--->
+  <li>Stephan Wojtowytsch (Texas Austin)</li>
   <!---<li>Kostas Zygalakis (University of Edinburgh)</li>--->
 </ul>
 
