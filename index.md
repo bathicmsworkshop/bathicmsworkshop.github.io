@@ -77,7 +77,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Tamara Großmann (University of Cambridge)</li>
   <!---<li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn)</li>--->
   <li>Samuel Hurault (Universite de Bordeaux)</li>
-  <li>Anna Korba (ENSAE/CREST)</li>
+  <!---<li>Anna Korba (ENSAE/CREST)</li>--->
   <li>Yury Korolev (University of Cambridge)</li>
   <li>Lorenz Kuger (Friedrich-Alexander-University of Erlangen-Nuernberg) </li>
   <li>Jonas Latz (Heriot Watt)</li>
@@ -87,7 +87,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>--->
   <li>Mathew Penrose (University of Bath)</li>
   <!---<li>Philipp Petersen (University of Vienna)</li>--->
-  <li>Marcelo Pereyra (University of Edinburgh)</li>
+  <!---<li>Marcelo Pereyra (University of Edinburgh)</li>--->
   <!---<li>Johannes Schmidt-Hieber (University of Twente)</li>--->
   <li>Mohammad Sadegh Salehi (University of Bath)</li>
   <li>Malena Sabete Landman (University of Cambridge)</li>
