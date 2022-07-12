@@ -68,7 +68,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Emiko Dupont (University of Bath)</li>
   <li>Nicolas Durrande (Secondmind AI)</li>
   <li>Ritabrata Dutta (Warwick)</li>
-  <li>Matthias Ehrhardt (University of Bath)</li>
+  <li>Matthias Ehrhardt (University of Bath) <a href="https://drive.google.com/file/d/12mTF9MOmyJvkYDdXblVZKbbO70p6j1UC/view?usp=sharing">[slides]</a></li>
   <!---<li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>--->
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
   <li>Matteo Garbelli (Trento)</li>
