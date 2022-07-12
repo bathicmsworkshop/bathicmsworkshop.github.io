@@ -72,7 +72,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Abderrahim Elmoataz (University of Caen Basse Normandy)</li>--->
   <!---<li>Cristina Garcia-Cardona (Los Alamos National Lab)</li>--->
   <li>Matteo Garbelli (Trento)</li>
-  <li>Bertrand Gauthier (University of Cardiff)</li>
+  <li>Bertrand Gauthier (University of Cardiff) <a href="https://drive.google.com/file/d/12mqUcjomrYW_zjuVgq_Q6xBgSbnenW7G/view?usp=sharing">[slides]</a></li>
   <li>Carina Geldhauser (Lund)</li>
   <li>Tamara Großmann (University of Cambridge)</li>
   <!---<li>Franca Hoffmann (Rheinische Friedrich-Wilhelms-Universität Bonn)</li>--->
