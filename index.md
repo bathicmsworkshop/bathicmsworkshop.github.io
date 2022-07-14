@@ -97,7 +97,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Yves van Gennip (Delft University of Technology)</li>
   <!---<li>Melanie Weber (University of Oxford)</li>--->
   <li>Adrien Weihs (University of Manchester)</li>
-  <li>Stephan Wojtowytsch (Texas Austin)</li>
+  <li>Stephan Wojtowytsch (Texas Austin) <a href="https://drive.google.com/file/d/12nHTGMrbvnSummMa0dl8xjphCfCuvGbF/view?usp=sharing">[slides]</a></li>
   <li>Hong Ye Tan (University of Cambridge)</li>
   <!---<li>Kostas Zygalakis (University of Edinburgh)</li>--->
 </ul>
