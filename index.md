@@ -91,7 +91,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Johannes Schmidt-Hieber (University of Twente)</li>--->
   <li>Mohammad Sadegh Salehi (University of Bath)</li>
   <li>Malena Sabete Landman (University of Cambridge)</li>
-  <li>Bernhard Schmitzer (University of Göttingen)</li>
+  <li>Bernhard Schmitzer (University of Göttingen) <a href="https://drive.google.com/file/d/12q1XcY9qERavv6HSilCUZKdPhsBZ48N8/view?usp=sharing">[slides]</a></li>
   <li>Timothée Stumpf-Fetizon (University of Warwick)</li>
   <li>Laura Thesing (Ludwig-Maximilians Universitat Munchen)</li>
   <li>Yves van Gennip (Delft University of Technology)</li>
