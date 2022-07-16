@@ -52,11 +52,11 @@ We particularly want to emphasise how mathematical theory can inform application
 <h1>Confirmed Participants in the 2022 Workshop</h1>
 
 <ul>
-  <li>Andres Almansa (Université de Paris)</li>
+  <li>Andres Almansa (Université de Paris) <a href="https://drive.google.com/file/d/135L6jGWSwVkzSkhlN02H2a8lBaSCXYD-/view?usp=sharing">[slides]</a></li>
   <li>Gianluca Audone (University of Bath)</li>
   <li>Coloma Ballester (Universitat Pompeu Fabra)</li>
   <!---<li>Andrea Bertozzi (University of California, Los Angeles)</li>--->
-  <li>Juliane Braunsmann (University of Muenster)</li>
+  <li>Juliane Braunsmann (University of Muenster) <a href="https://drive.google.com/file/d/12zGcbn6tmuhv2BBBf7lZqaS9ri47dYkB/view?usp=sharing">[slides]</a></li>
   <li>Christoph Brune (University of Twente)</li>
   <li>Jeremy Budd (University of Bonn)</li>
   <!---<li>Jeff Calder (University of Minnesota)</li>--->
@@ -85,7 +85,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Pablo Muse (Universidad de la República de Uruguay)</li>
   <li>Lukman Olawale (University of Greenwich)</li>
   <!---<li>Omiros Papaspiliopoulos (Universitat Pompeu Fabra)</li>--->
-  <li>Mathew Penrose (University of Bath)</li>
+  <li>Mathew Penrose (University of Bath) <a href="https://drive.google.com/file/d/13HXAnS3mvl364AQ-OwjgDf3VC4tg0Ort/view?usp=sharing">[slides]</a></li>
   <!---<li>Philipp Petersen (University of Vienna)</li>--->
   <!---<li>Marcelo Pereyra (University of Edinburgh)</li>--->
   <!---<li>Johannes Schmidt-Hieber (University of Twente)</li>--->
