@@ -64,7 +64,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <!---<li>Daniel Cremers (Technische Universität München)</li>--->
   <!---<li>Julie Delon (Paris Descartes University)</li>--->
   <li>Sergey Dolgov (University of Bath)</li>
-  <li>Margaret Duff (University of Bath)</li>
+  <li>Margaret Duff (University of Bath) <a href="https://drive.google.com/file/d/11PpQ9eQpjKIvVHnWmKtURW7mpOLIrHUQ/view?usp=sharing">[slides]</a></li>
   <li>Emiko Dupont (University of Bath)</li>
   <li>Nicolas Durrande (Secondmind AI)</li>
   <li>Ritabrata Dutta (Warwick)</li>
