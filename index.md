@@ -93,7 +93,7 @@ We particularly want to emphasise how mathematical theory can inform application
   <li>Malena Sabete Landman (University of Cambridge) <a href="https://drive.google.com/file/d/11O7CSCBm35McRSWbfp_jRAxJ1VkugZaB/view?usp=sharing">[slides]</a></li>
   <li>Bernhard Schmitzer (University of Göttingen) <a href="https://drive.google.com/file/d/12q1XcY9qERavv6HSilCUZKdPhsBZ48N8/view?usp=sharing">[slides]</a></li>
   <li>Timothée Stumpf-Fetizon (University of Warwick) <a href="https://drive.google.com/file/d/12x-im5e04NgM2R-u9LyyTiGqoR0czdHH/view?usp=sharing">[slides]</a></li>
-  <li>Laura Thesing (Ludwig-Maximilians Universitat Munchen)</li>
+  <li>Laura Thesing (Ludwig-Maximilians Universitat Munchen) <a href="https://drive.google.com/file/d/13NutRNcS1zq6ybQIrx1j9zijLOTQs7AR/view?usp=sharing">[slides]</a></li>
   <li>Yves van Gennip (Delft University of Technology)</li>
   <!---<li>Melanie Weber (University of Oxford)</li>--->
   <li>Adrien Weihs (University of Manchester)</li>
